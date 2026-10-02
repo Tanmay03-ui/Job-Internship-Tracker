@@ -1,4 +1,4 @@
 # Job-Internship-Tracker
 A user friendly platform to keep track of job and internship opportunities available 
 <br>
-Author - Tanmay
+Author - Tanmay Jha
